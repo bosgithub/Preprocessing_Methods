@@ -6,6 +6,9 @@
 <br>
 
 ### 1. Cross Validation
+  
+  #### 1.1 - K Fold CV
+  #### 1.2 - LOOCV
 
 <br>
 

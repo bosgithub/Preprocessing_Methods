@@ -1,2 +1,16 @@
 # Preprocessing_Methods
-## 3 Resampling methods : cross validation, bootstrap, jackknife
+
+
+## Resampling methods : 
+
+<br>
+
+### 1. Cross Validation
+
+<br>
+
+### 2. Bootstrap
+
+<br>
+
+### 3. Jackknife
